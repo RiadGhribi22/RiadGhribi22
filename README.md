@@ -12,3 +12,5 @@ My academic background also strengthened my knowledge of **algorithms** and **da
 Moreover, I have experience working with **databases**, including both **SQL** (MySQL) 🗄️ and **NoSQL** (MongoDB) 🛢️, enabling me to design and manage **structured and unstructured data** efficiently.
 
 ---
+
+✨ Always excited to learn new technologies and take on new challenges!
