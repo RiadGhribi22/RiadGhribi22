@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I'm Riad 👋
 
-<!--
-**RiadGhribi22/RiadGhribi22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I was a student at Djilali Liabes University 🎓, where I pursued my studies in **Information Systems Engineering**.  
+Since 2021, I specialized in **web development** 🌐, starting with frontend technologies such as **HTML**, **CSS**, and **JavaScript** ✨.
 
-Here are some ideas to get you started:
+As my passion for web development grew ❤️, I transitioned into **full-stack development**, focusing on the **MERN stack** (MongoDB, Express.js, React, Node.js) 🚀.  
+This allowed me to build **dynamic and scalable** web applications, enhancing both my **frontend** and **backend** skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In addition to web development, I have a solid foundation in **Python** 🐍, **Java** ☕, and **C** 💻, which I use for **problem-solving** 🧠.  
+My academic background also strengthened my knowledge of **algorithms** and **data structures** 📚, essential for writing **efficient and optimized** code.
+
+Moreover, I have experience working with **databases**, including both **SQL** (MySQL) 🗄️ and **NoSQL** (MongoDB) 🛢️, enabling me to design and manage **structured and unstructured data** efficiently.
+
+---
